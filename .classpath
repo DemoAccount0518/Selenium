@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber-junit-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/jexcel-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
